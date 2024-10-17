@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-We're thrilled to have you here. This is the home of the Portapack Mayhem repository, a project dedicated to the exploration and expansion of the capabilities of the Portapack H1/H2 devices.
+We're thrilled to have you here. This is the home of the Portapack Mayhem repository, a project dedicated to the exploration and expansion of the capabilities of the Portapack H1/H2/H4 devices.
 
 Our organization is a vibrant community of developers, tech enthusiasts, and Portapack users. We're all working together to push the boundaries of what's possible with the Portapack devices.
 
